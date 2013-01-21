@@ -1,0 +1,5 @@
+NAME="sugar-Chat"
+VERSION=78
+RELEASE=1
+SUGAR_TYPE="fructose"
+inherit sugar
